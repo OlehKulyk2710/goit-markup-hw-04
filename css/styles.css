@@ -243,15 +243,14 @@ header > .container {
 }
 
 .advnt-icons {
+width: 270px;
+height: 120px;
 display: flex;
+justify-content: center;
+align-items: center;
 margin-bottom: 30px;
-}
-
-.icon-antena,
-.icon-clock,
-.icon-diagram,
-.icon-astronaut {
-  border-radius: 4px;
+background-color: var(--background-color);
+border-radius: 4px;
 }
 
 .advnt-title {
